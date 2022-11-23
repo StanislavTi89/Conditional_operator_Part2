@@ -90,7 +90,7 @@ public class Main {
 
 
         //Задание 7
-        System.out.println("//Задание 7");
+        System.out.println("Задание 7");
         int baseRate = 10;
         int creditMonth = 12;
         int maxRate = 50;
