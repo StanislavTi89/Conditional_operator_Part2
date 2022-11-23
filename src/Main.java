@@ -93,9 +93,9 @@ public class Main {
 
         //Задание 7
         System.out.println("Задание 7");
-        int baseRate = 10;
-        int creditMonth = 12;
-        int maxRate = 50;
+        int age1 = 23;
+        int salary1 = 50000;
+        int wantedSum = 300000;
 
 
     }
