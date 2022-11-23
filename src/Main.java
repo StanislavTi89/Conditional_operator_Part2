@@ -76,8 +76,8 @@ public class Main {
 
         //Задание 6
         System.out.println("Задание 6");
-        int age = 19;
-        int salary = 40000;
+        int age = 17;
+        int salary = 20000;
         if (age<23&&age>=18){
             System.out.println("Мы готовы выдать вам кредитную карту с лимитом " + (salary*2) + " рублей");
         }else if (age >=23){
@@ -86,6 +86,8 @@ public class Main {
             System.out.println("Мы готовы выдать вам кредитную карту с лимитом " + (salary * 1.2) + " рублей");
         }else if (age >= 23 && salary >= 80000){
             System.out.println("Мы готовы выдать вам кредитную карту с лимитом " + (salary * 1.3) + " рублей");
+        }else {
+            System.out.println("Мы не можем вам выдать кредит");
         }
 
 
@@ -94,6 +96,7 @@ public class Main {
         int baseRate = 10;
         int creditMonth = 12;
         int maxRate = 50;
+
 
     }
 }
