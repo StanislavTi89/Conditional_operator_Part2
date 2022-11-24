@@ -90,13 +90,5 @@ public class Main {
             System.out.println("Мы не можем вам выдать кредит");
         }
 
-
-        //Задание 7
-        System.out.println("Задание 7");
-        int age1 = 23;
-        int salary1 = 50000;
-        int wantedSum = 300000;
-
-
     }
 }
